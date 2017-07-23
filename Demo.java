@@ -4,7 +4,7 @@ int x;
 static int y=15;
 int z;
 }
-public class Demo
+public class Demo1
 {
 public static void main(String args[])
 {
